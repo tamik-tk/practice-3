@@ -1,0 +1,15 @@
+class a:
+    def s(qq):
+        qq.tt=input()
+    def d(qq):
+        print(qq.tt.upper())
+ff=a()
+ff.s()
+ff.d()
+
+
+
+
+
+
+
